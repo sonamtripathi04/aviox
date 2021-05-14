@@ -1,10 +1,11 @@
 import React from 'react';
-import AllTranscations from './AllTranscations'
+// import AllTranscations from './AllTranscations'
+import Listing from "./Listing"
 
 function App() {
   return (
     <div className="App">
-      <AllTranscations/>
+      <Listing/>
     </div>
   );
 }
